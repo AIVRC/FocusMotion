@@ -1,0 +1,10 @@
+/home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Denim-id_00000750-01_1_front.png,/home/yanghaotian/server_data/yanghaotian/data/applied_dataset/pose/MEN-Shirts_Polos-id_00003489-12_4_full.png
+/home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Jackets_Vests-id_00004319-03_4_full.png,/home/yanghaotian/server_data/yanghaotian/data/applied_dataset/pose/WOMEN-Blouses_Shirts-id_00002078-03_1_front.png
+/home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/WOMEN-Blouses_Shirts-id_00000082-03_4_full.png,/home/yanghaotian/server_data/yanghaotian/data/applied_dataset/pose/00145_0001.png
+/home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/WOMEN-Blouses_Shirts-id_00000806-02_4_full.png,/home/yanghaotian/server_data/yanghaotian/data/applied_dataset/pose/MEN-Shorts-id_00000337-10_4_full.png
+/home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Pants-id_00002236-01_7_additional.png,/home/yanghaotian/server_data/yanghaotian/data/applied_dataset/pose/00181_0001.png
+/home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/WOMEN-Blouses_Shirts-id_00001061-01_4_full.png,/home/yanghaotian/server_data/yanghaotian/data/applied_dataset/pose/00169_0001.png
+/home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00035_0001.png,/home/yanghaotian/server_data/yanghaotian/data/applied_dataset/pose/WOMEN-Blouses_Shirts-id_00002616-04_4_full.png
+/home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00057_0001.png,/home/yanghaotian/server_data/yanghaotian/data/applied_dataset/pose/MEN-Shirts_Polos-id_00000562-02_4_full.png
+/home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00071_0001.png,/home/yanghaotian/server_data/yanghaotian/data/applied_dataset/pose/00129_0001.png
+/home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00089_0001.png,/home/yanghaotian/server_data/yanghaotian/data/applied_dataset/pose/00191_0001.png

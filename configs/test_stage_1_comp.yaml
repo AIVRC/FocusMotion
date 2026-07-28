@@ -1,0 +1,46 @@
+pretrained_base_model_path: './pretrained_weights/sd-image-variations-diffusers'
+pretrained_vae_path: './pretrained_weights/sd-vae-ft-mse'
+image_encoder_path: './pretrained_weights/image_encoder'
+
+
+
+# denoising_unet_path: "./pretrained_weights/MusePose/denoising_unet.pth"
+# reference_unet_path: "./pretrained_weights/MusePose/reference_unet.pth"
+# pose_guider_path: "./pretrained_weights/MusePose/pose_guider.pth"
+denoising_unet_path: /home/yanghaotian/server_data/yanghaotian/test/Musepose_copy1/exp_output_3x_loaded/stage_1/denoising_unet-1034875.pth
+reference_unet_path: /home/yanghaotian/server_data/yanghaotian/test/Musepose_copy1/exp_output_3x_loaded/stage_1/reference_unet-1034875.pth
+pose_guider_path: /home/yanghaotian/server_data/yanghaotian/test/Musepose_copy1/exp_output_3x_loaded/stage_1/pose_guider-1034875.pth
+clip_fusion_path: /home/yanghaotian/server_data/yanghaotian/test/Musepose_copy1/exp_output_3x_loaded/stage_1/clip_fusion-1034875.pth
+
+
+inference_config: "./configs/inference_v2.yaml"
+weight_dtype: 'fp16'
+
+
+
+test_cases:
+  - ref: /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Jackets_Vests-id_00007583-02_4_full.png
+    pose: /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_MEN-Jackets_Vests-id_00007583-02_4_full_video_MEN-Shirts_Polos-id_00004794-04_4_full.png
+    complex: /home/yanghaotian/server_data/yanghaotian/data/test_comp/jacket_clothes_cloth_cut.png
+  - ref: /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Pants-id_00000836-03_4_full.png
+    pose: /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_MEN-Pants-id_00000836-03_4_full_video_MEN-Shirts_Polos-id_00005548-06_4_full.png
+    complex: /home/yanghaotian/server_data/yanghaotian/data/test_comp/pants_clothes_cloth_cut.png
+  - ref: /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Pants-id_00001207-07_4_full.png
+    pose: /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_MEN-Pants-id_00001207-07_4_full_video_MEN-Shirts_Polos-id_00005986-07_4_full.png
+    complex: /home/yanghaotian/server_data/yanghaotian/data/test_comp/pants2_clothes_cloth_cut.png
+    # /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Jackets_Vests-id_00007583-02_4_full.png:
+    # - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_MEN-Jackets_Vests-id_00007583-02_4_full_video_MEN-Shirts_Polos-id_00004794-04_4_full.png
+    # /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Pants-id_00000836-03_4_full.png:
+    # - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_MEN-Pants-id_00000836-03_4_full_video_MEN-Shirts_Polos-id_00005548-06_4_full.png
+    # /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Pants-id_00001207-07_4_full.png:
+    # - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_MEN-Pants-id_00001207-07_4_full_video_MEN-Shirts_Polos-id_00005986-07_4_full.png
+    # /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Pants-id_00002236-01_7_additional.png:
+    # - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_MEN-Pants-id_00002236-01_7_additional_video_MEN-Shorts-id_00000337-10_4_full.png
+  #   - "./assets/images/ComfyUI_00153_.png"
+  # "./assets/images/pose1.png":
+  #   - "./assets/images/pose1.png"
+  #   - "./assets/images/ComfyUI_00153_.png"
+
+
+
+

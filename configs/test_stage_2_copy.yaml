@@ -1,0 +1,14 @@
+pretrained_base_model_path: ./pretrained_weights/sd-image-variations-diffusers
+pretrained_vae_path: ./pretrained_weights/sd-vae-ft-mse
+image_encoder_path: ./pretrained_weights/image_encoder
+denoising_unet_path: /home/yanghaotian/server_data/yanghaotian/test/MusePose/exp_output/stage_1/denoising_unet-130200.pth
+reference_unet_path: /home/yanghaotian/server_data/yanghaotian/test/MusePose/exp_output/stage_1/reference_unet-130200.pth
+pose_guider_path: /home/yanghaotian/server_data/yanghaotian/test/MusePose/exp_output/stage_1/pose_guider-130200.pth
+motion_module_path: /home/yanghaotian/server_data/yanghaotian/test/MusePose/exp_output/stage_2/motion_module-2517.pth
+inference_config: ./configs/inference_v2.yaml
+weight_dtype: fp16
+test_cases:
+  /home/yanghaotian/server_data/yanghaotian/data/ubc_frames/frame1/91-3003CN5S_frame1.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_91-3003CN5S_frame1_video_91-3003CN5S.mp4
+  /home/yanghaotian/server_data/yanghaotian/data/ubc_frames/frame1/91-NTYmAx2S_frame1.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_91-NTYmAx2S_frame1_video_91-NTYmAx2S.mp4

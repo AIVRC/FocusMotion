@@ -1,0 +1,30 @@
+name: Musepose_benchmark
+description: This is yanghaotian project
+workspace: yanghaotian
+project: yanghaotian
+resources:
+  resource_pool: H10080G_device
+  slots_per_trial: 1
+  max_slots: 1
+bind_mounts:
+  - host_path: /home/fds-admin/determinedai_files
+    container_path: /home/fds-admin/determinedai_files
+  - host_path: /home/fds-admin/user_files
+    container_path: /home/fds-admin/user_files
+environment:
+  force_pull_image: true
+  image: 100.74.185.9:80/yanghaotian/train_pose:251229
+  registry_auth:
+    username: yanghaotian
+    password: Fds00000000
+searcher:
+  name: single
+  metric: accuracy
+entrypoint: >-
+  export PATH=/opt/conda/bin:$PATH;
+  export PYTHONPATH=/home/fds-admin/user_files/yanghaotian/yanghaotian/test/Musepose_copy1:$PYTHONPATH;
+  pip install --upgrade --force-reinstall torch==2.4.0 torchvision==0.19.0 torchaudio==2.4.0 --index-url https://download.pytorch.org/whl/cu121;
+  pip install xformers==0.0.27.post2 --index-url https://download.pytorch.org/whl/cu121;
+  pip install "numpy<2" protobuf==3.20.3 --force-reinstall;
+  cd /home/fds-admin/user_files/yanghaotian/yanghaotian/test/Musepose_copy1;
+  python benchmark/benchmark_musepose.py;

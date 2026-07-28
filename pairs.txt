@@ -1,0 +1,2 @@
+/home/yanghaotian/server_data/yanghaotian/data/ubc_frames/frame1/91-3003CN5S_frame1.png,/home/yanghaotian/server_data/yanghaotian/digital_virtual/data/test/91-3003CN5S.mp4
+/home/yanghaotian/server_data/yanghaotian/data/ubc_frames/frame1/91-NTYmAx2S_frame1.png,/home/yanghaotian/server_data/yanghaotian/digital_virtual/data/test/91-NTYmAx2S.mp4

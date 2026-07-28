@@ -1,0 +1,69 @@
+# 默认忽略全部文件，再按需放行小文件
+*
+
+# 允许遍历目录（否则无法放行子文件）
+!*/
+
+# 保留仓库基础文件
+!.gitignore
+!README.md
+!LICENSE
+
+# 仅放行常见代码/配置/脚本小文件
+!*.py
+!*.md
+!*.txt
+!*.json
+!*.yaml
+!*.yml
+!*.toml
+!*.ini
+!*.cfg
+!*.sh
+
+# Python 缓存与系统文件
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+
+# 强制忽略常见大文件与产物
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.onnx
+*.safetensors
+*.h5
+*.npy
+*.npz
+*.pkl
+*.joblib
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+*.7z
+*.rar
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+*.gif
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tif
+*.tiff
+*.wav
+*.mp3
+
+# 训练输出、日志、缓存目录（如存在）
+pretrained_weights/
+output/
+exp_output*/
+mlruns/
+saved_models/
+video_frames/

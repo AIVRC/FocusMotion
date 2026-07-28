@@ -1,0 +1,209 @@
+pretrained_base_model_path: ./pretrained_weights/sd-image-variations-diffusers
+pretrained_vae_path: ./pretrained_weights/sd-vae-ft-mse
+image_encoder_path: ./pretrained_weights/image_encoder
+denoising_unet_path: /home/yanghaotian/server_data/yanghaotian/test/MusePose/exp_output/stage_1/denoising_unet-130200.pth
+reference_unet_path: /home/yanghaotian/server_data/yanghaotian/test/MusePose/exp_output/stage_1/reference_unet-130200.pth
+pose_guider_path: /home/yanghaotian/server_data/yanghaotian/test/MusePose/exp_output/stage_1/pose_guider-130200.pth
+inference_config: ./configs/inference_v2.yaml
+weight_dtype: fp16
+test_cases:
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00001_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00001_0001_video_00101_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00003_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00003_0001_video_00103_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00005_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00005_0001_video_00105_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00007_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00007_0001_video_00107_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00009_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00009_0001_video_00109_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00011_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00011_0001_video_00111_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00013_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00013_0001_video_00113_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00015_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00015_0001_video_00115_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00017_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00017_0001_video_00117_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00019_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00019_0001_video_00119_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00021_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00021_0001_video_00121_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00023_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00023_0001_video_00123_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00025_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00025_0001_video_00125_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00027_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00027_0001_video_00127_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00029_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00029_0001_video_00129_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00031_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00031_0001_video_00131_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00033_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00033_0001_video_00133_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00035_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00035_0001_video_00135_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00037_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00037_0001_video_00137_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00039_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00039_0001_video_00139_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00041_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00041_0001_video_00141_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00043_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00043_0001_video_00143_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00045_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00045_0001_video_00145_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00047_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00047_0001_video_00147_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00049_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00049_0001_video_00149_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00051_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00051_0001_video_00151_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00053_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00053_0001_video_00153_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00055_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00055_0001_video_00155_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00057_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00057_0001_video_00157_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00059_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00059_0001_video_00159_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00061_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00061_0001_video_00161_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00063_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00063_0001_video_00163_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00065_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00065_0001_video_00165_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00067_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00067_0001_video_00167_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00069_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00069_0001_video_00169_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00071_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00071_0001_video_00171_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00073_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00073_0001_video_00173_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00075_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00075_0001_video_00175_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00077_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00077_0001_video_00177_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00079_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00079_0001_video_00179_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00081_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00081_0001_video_00181_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00083_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00083_0001_video_00183_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00085_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00085_0001_video_00185_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00087_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00087_0001_video_00187_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00089_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00089_0001_video_00189_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00091_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00091_0001_video_00191_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00093_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00093_0001_video_00193_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00095_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00095_0001_video_00195_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00097_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00097_0001_video_00197_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/00099_0001.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_00099_0001_video_00199_0001.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Denim-id_00000089-03_7_additional.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_MEN-Denim-id_00000089-03_7_additional_video_MEN-Pants-id_00003612-01_1_front.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Denim-id_00000089-46_7_additional.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_MEN-Denim-id_00000089-46_7_additional_video_MEN-Pants-id_00003612-02_7_additional.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Denim-id_00000353-02_7_additional.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_MEN-Denim-id_00000353-02_7_additional_video_MEN-Pants-id_00003612-14_1_front.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Denim-id_00000750-01_1_front.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_MEN-Denim-id_00000750-01_1_front_video_MEN-Pants-id_00004045-04_7_additional.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Denim-id_00000826-03_1_front.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_MEN-Denim-id_00000826-03_1_front_video_MEN-Pants-id_00005690-02_4_full.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Denim-id_00000938-05_1_front.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_MEN-Denim-id_00000938-05_1_front_video_MEN-Pants-id_00006535-08_1_front.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Denim-id_00001198-04_7_additional.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_MEN-Denim-id_00001198-04_7_additional_video_MEN-Pants-id_00006688-03_4_full.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Denim-id_00002559-01_4_full.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_MEN-Denim-id_00002559-01_4_full_video_MEN-Pants-id_00006804-01_7_additional.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Jackets_Vests-id_00000393-01_4_full.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_MEN-Jackets_Vests-id_00000393-01_4_full_video_MEN-Pants-id_00006826-02_7_additional.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Jackets_Vests-id_00002446-05_1_front.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_MEN-Jackets_Vests-id_00002446-05_1_front_video_MEN-Pants-id_00007323-02_1_front.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Jackets_Vests-id_00002754-01_1_front.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_MEN-Jackets_Vests-id_00002754-01_1_front_video_MEN-Shirts_Polos-id_00000204-01_7_additional.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Jackets_Vests-id_00004319-03_4_full.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_MEN-Jackets_Vests-id_00004319-03_4_full_video_MEN-Shirts_Polos-id_00000562-02_4_full.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Jackets_Vests-id_00005047-01_4_full.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_MEN-Jackets_Vests-id_00005047-01_4_full_video_MEN-Shirts_Polos-id_00000712-02_4_full.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Jackets_Vests-id_00006299-01_4_full.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_MEN-Jackets_Vests-id_00006299-01_4_full_video_MEN-Shirts_Polos-id_00001184-03_4_full.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Jackets_Vests-id_00006736-01_7_additional.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_MEN-Jackets_Vests-id_00006736-01_7_additional_video_MEN-Shirts_Polos-id_00001540-03_4_full.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Jackets_Vests-id_00006912-09_4_full.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_MEN-Jackets_Vests-id_00006912-09_4_full_video_MEN-Shirts_Polos-id_00003489-09_4_full.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Jackets_Vests-id_00007324-03_4_full.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_MEN-Jackets_Vests-id_00007324-03_4_full_video_MEN-Shirts_Polos-id_00003489-12_4_full.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Jackets_Vests-id_00007569-03_4_full.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_MEN-Jackets_Vests-id_00007569-03_4_full_video_MEN-Shirts_Polos-id_00003725-03_1_front.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Jackets_Vests-id_00007583-02_4_full.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_MEN-Jackets_Vests-id_00007583-02_4_full_video_MEN-Shirts_Polos-id_00004794-04_4_full.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Pants-id_00000836-03_4_full.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_MEN-Pants-id_00000836-03_4_full_video_MEN-Shirts_Polos-id_00005548-06_4_full.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Pants-id_00001207-07_4_full.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_MEN-Pants-id_00001207-07_4_full_video_MEN-Shirts_Polos-id_00005986-07_4_full.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Pants-id_00002236-01_7_additional.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_MEN-Pants-id_00002236-01_7_additional_video_MEN-Shorts-id_00000337-10_4_full.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Pants-id_00002898-04_7_additional.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_MEN-Pants-id_00002898-04_7_additional_video_MEN-Shorts-id_00000337-11_4_full.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Pants-id_00002898-09_7_additional.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_MEN-Pants-id_00002898-09_7_additional_video_MEN-Shorts-id_00000597-01_4_full.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/MEN-Pants-id_00003564-01_4_full.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_MEN-Pants-id_00003564-01_4_full_video_MEN-Shorts-id_00000816-01_7_additional.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/WOMEN-Blouses_Shirts-id_00000005-02_4_full.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_WOMEN-Blouses_Shirts-id_00000005-02_4_full_video_WOMEN-Blouses_Shirts-id_00001217-03_4_full.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/WOMEN-Blouses_Shirts-id_00000028-01_7_additional.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_WOMEN-Blouses_Shirts-id_00000028-01_7_additional_video_WOMEN-Blouses_Shirts-id_00001241-03_4_full.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/WOMEN-Blouses_Shirts-id_00000057-03_4_full.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_WOMEN-Blouses_Shirts-id_00000057-03_4_full_video_WOMEN-Blouses_Shirts-id_00001299-02_4_full.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/WOMEN-Blouses_Shirts-id_00000082-03_4_full.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_WOMEN-Blouses_Shirts-id_00000082-03_4_full_video_WOMEN-Blouses_Shirts-id_00001393-01_4_full.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/WOMEN-Blouses_Shirts-id_00000108-03_7_additional.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_WOMEN-Blouses_Shirts-id_00000108-03_7_additional_video_WOMEN-Blouses_Shirts-id_00001419-03_4_full.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/WOMEN-Blouses_Shirts-id_00000132-03_4_full.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_WOMEN-Blouses_Shirts-id_00000132-03_4_full_video_WOMEN-Blouses_Shirts-id_00001421-04_4_full.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/WOMEN-Blouses_Shirts-id_00000276-05_4_full.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_WOMEN-Blouses_Shirts-id_00000276-05_4_full_video_WOMEN-Blouses_Shirts-id_00001768-02_4_full.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/WOMEN-Blouses_Shirts-id_00000351-08_4_full.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_WOMEN-Blouses_Shirts-id_00000351-08_4_full_video_WOMEN-Blouses_Shirts-id_00001825-06_4_full.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/WOMEN-Blouses_Shirts-id_00000397-02_4_full.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_WOMEN-Blouses_Shirts-id_00000397-02_4_full_video_WOMEN-Blouses_Shirts-id_00001860-02_4_full.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/WOMEN-Blouses_Shirts-id_00000542-03_4_full.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_WOMEN-Blouses_Shirts-id_00000542-03_4_full_video_WOMEN-Blouses_Shirts-id_00001897-02_4_full.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/WOMEN-Blouses_Shirts-id_00000588-03_1_front.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_WOMEN-Blouses_Shirts-id_00000588-03_1_front_video_WOMEN-Blouses_Shirts-id_00001905-05_4_full.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/WOMEN-Blouses_Shirts-id_00000652-08_4_full.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_WOMEN-Blouses_Shirts-id_00000652-08_4_full_video_WOMEN-Blouses_Shirts-id_00001939-02_7_additional.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/WOMEN-Blouses_Shirts-id_00000720-03_4_full.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_WOMEN-Blouses_Shirts-id_00000720-03_4_full_video_WOMEN-Blouses_Shirts-id_00001945-02_2_side.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/WOMEN-Blouses_Shirts-id_00000721-03_4_full.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_WOMEN-Blouses_Shirts-id_00000721-03_4_full_video_WOMEN-Blouses_Shirts-id_00002014-01_4_full.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/WOMEN-Blouses_Shirts-id_00000721-03_7_additional.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_WOMEN-Blouses_Shirts-id_00000721-03_7_additional_video_WOMEN-Blouses_Shirts-id_00002078-03_1_front.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/WOMEN-Blouses_Shirts-id_00000737-01_2_side.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_WOMEN-Blouses_Shirts-id_00000737-01_2_side_video_WOMEN-Blouses_Shirts-id_00002102-04_4_full.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/WOMEN-Blouses_Shirts-id_00000806-02_4_full.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_WOMEN-Blouses_Shirts-id_00000806-02_4_full_video_WOMEN-Blouses_Shirts-id_00002330-03_4_full.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/WOMEN-Blouses_Shirts-id_00000856-01_1_front.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_WOMEN-Blouses_Shirts-id_00000856-01_1_front_video_WOMEN-Blouses_Shirts-id_00002447-04_4_full.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/WOMEN-Blouses_Shirts-id_00000890-03_4_full.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_WOMEN-Blouses_Shirts-id_00000890-03_4_full_video_WOMEN-Blouses_Shirts-id_00002543-02_4_full.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/WOMEN-Blouses_Shirts-id_00000997-01_4_full.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_WOMEN-Blouses_Shirts-id_00000997-01_4_full_video_WOMEN-Blouses_Shirts-id_00002616-04_4_full.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/WOMEN-Blouses_Shirts-id_00001057-02_7_additional.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_WOMEN-Blouses_Shirts-id_00001057-02_7_additional_video_WOMEN-Blouses_Shirts-id_00002630-01_4_full.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/WOMEN-Blouses_Shirts-id_00001061-01_4_full.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_WOMEN-Blouses_Shirts-id_00001061-01_4_full_video_WOMEN-Blouses_Shirts-id_00002689-01_7_additional.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/WOMEN-Blouses_Shirts-id_00001083-01_7_additional.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_WOMEN-Blouses_Shirts-id_00001083-01_7_additional_video_WOMEN-Blouses_Shirts-id_00002703-05_4_full.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/WOMEN-Blouses_Shirts-id_00001135-04_4_full.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_WOMEN-Blouses_Shirts-id_00001135-04_4_full_video_WOMEN-Blouses_Shirts-id_00002730-01_4_full.png
+  /home/yanghaotian/server_data/yanghaotian/data/applied_dataset/ref/WOMEN-Blouses_Shirts-id_00001191-01_4_full.png:
+  - /home/yanghaotian/server_data/yanghaotian/test/MusePose/assets/poses/align/img_WOMEN-Blouses_Shirts-id_00001191-01_4_full_video_WOMEN-Blouses_Shirts-id_00002772-01_4_full.png

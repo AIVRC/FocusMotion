@@ -1,0 +1,1998 @@
+[
+    {
+        "video_path": "../../digital_virtual/data/train/91Sc09ZXIWS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91Sc09ZXIWS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A190oHyN7XS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A190oHyN7XS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91mOBF1cAJS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91mOBF1cAJS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/911oR3cdb1S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/911oR3cdb1S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A190M-8Kh8S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A190M-8Kh8S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A12Bs0ylPrS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A12Bs0ylPrS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A158fYJR5gS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A158fYJR5gS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1E+sxSfPQS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1E+sxSfPQS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91KbTM-Qs5S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91KbTM-Qs5S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91dVyEFeFXS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91dVyEFeFXS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91awBtSMraS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91awBtSMraS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91lkERFbNzS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91lkERFbNzS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91a7ujDXN9S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91a7ujDXN9S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1W1FyxFN1S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1W1FyxFN1S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91c+SL7Cg7S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91c+SL7Cg7S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91QFEra7jDS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91QFEra7jDS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91xDLvKBQ8S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91xDLvKBQ8S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/81FyMPk-WIS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/81FyMPk-WIS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91zX7m12qrS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91zX7m12qrS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1ESU8dpYhS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1ESU8dpYhS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91B1xPF+UGS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91B1xPF+UGS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91mJs1Rx9ZS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91mJs1Rx9ZS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91CBf2PucRS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91CBf2PucRS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91khUDfmcnS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91khUDfmcnS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91BeC-Eo4+S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91BeC-Eo4+S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91Lvh4YdSUS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91Lvh4YdSUS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1kmapmav2S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1kmapmav2S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91xHpayzM0S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91xHpayzM0S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/919t9Syv9mS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/919t9Syv9mS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91Ucjr9DLYS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91Ucjr9DLYS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1Z+OiecmLS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1Z+OiecmLS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A11fCqkXWUS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A11fCqkXWUS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91VR+4O2H6S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91VR+4O2H6S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A13x1REw8VS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A13x1REw8VS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91iKyqnNwxS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91iKyqnNwxS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1jBVJHhD5S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1jBVJHhD5S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1u0IlecjbS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1u0IlecjbS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1LXiB9DErS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1LXiB9DErS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91inLIhjlkS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91inLIhjlkS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1f9DiUYpAS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1f9DiUYpAS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/9191vM3gWUS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/9191vM3gWUS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91rr7Fj3wmS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91rr7Fj3wmS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1AcsqCBqyS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1AcsqCBqyS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1e4FvDCO0S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1e4FvDCO0S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91jVgPE1s1S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91jVgPE1s1S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1PY+v5m7oS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1PY+v5m7oS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1S0xsQfaiS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1S0xsQfaiS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1aF4I7s-hS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1aF4I7s-hS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1LI3q12smS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1LI3q12smS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1jqlFsctyS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1jqlFsctyS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91xuWi7D5kS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91xuWi7D5kS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91mxkmTsn-S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91mxkmTsn-S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1w603Ci8KS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1w603Ci8KS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1HoF0l4NrS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1HoF0l4NrS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/9129YDE+cmS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/9129YDE+cmS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1YQG7hbxAS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1YQG7hbxAS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91dqdbuZPhS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91dqdbuZPhS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1NoOlWA5zS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1NoOlWA5zS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91ENRDaKyIS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91ENRDaKyIS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1sinewFaDS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1sinewFaDS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A14+vjk00kS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A14+vjk00kS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1scLENhiYS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1scLENhiYS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91XQ7iTrA3S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91XQ7iTrA3S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1NPZwUqfaS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1NPZwUqfaS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91l9zhxnd-S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91l9zhxnd-S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A14zSHJKopS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A14zSHJKopS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91CL7aaNUQS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91CL7aaNUQS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91t9QPjy6IS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91t9QPjy6IS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1o+Q8NgFnS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1o+Q8NgFnS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1KcpmdyZcS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1KcpmdyZcS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91lOX26QQ+S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91lOX26QQ+S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91pUKQ9VE-S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91pUKQ9VE-S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91HL0Dn7NzS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91HL0Dn7NzS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91rbRfjMweS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91rbRfjMweS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91Jvr6TZf1S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91Jvr6TZf1S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91k+vG5ThUS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91k+vG5ThUS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/919vwGkoBZS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/919vwGkoBZS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1B2qmziDvS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1B2qmziDvS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1eAt1p54XS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1eAt1p54XS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/917B4f44vhS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/917B4f44vhS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91WwxuTSaYS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91WwxuTSaYS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91Iegdp9HFS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91Iegdp9HFS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91J6B8sbMuS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91J6B8sbMuS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91TinyLmtvS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91TinyLmtvS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1WY8jED6NS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1WY8jED6NS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91bxJwvqyzS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91bxJwvqyzS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A16dhGRUkuS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A16dhGRUkuS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1xGg3ZcFvS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1xGg3ZcFvS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91FxsyKa6cS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91FxsyKa6cS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1cks+TzPgS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1cks+TzPgS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91kau3zgnCS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91kau3zgnCS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91WwlYjebKS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91WwlYjebKS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91Wt9hr+93S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91Wt9hr+93S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91+20mY7UJS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91+20mY7UJS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91e5Zx4EMDS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91e5Zx4EMDS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/914LPAnGLuS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/914LPAnGLuS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91C+rpudhdS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91C+rpudhdS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91hVdrwKj8S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91hVdrwKj8S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1Yin2If81S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1Yin2If81S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1Y4RROg3yS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1Y4RROg3yS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1P10LXQgGS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1P10LXQgGS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1eEZvfJRUS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1eEZvfJRUS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91WIsDoNP2S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91WIsDoNP2S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1AaQORgLfS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1AaQORgLfS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91zrX+VihKS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91zrX+VihKS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1MPQ2Fne+S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1MPQ2Fne+S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91BxsiLn7uS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91BxsiLn7uS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A18fOhsmJWS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A18fOhsmJWS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A17AGFxllwS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A17AGFxllwS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1E-bnKT5iS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1E-bnKT5iS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91+xeI+ijRS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91+xeI+ijRS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91t1iUyA-DS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91t1iUyA-DS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91Gi3oNo0ZS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91Gi3oNo0ZS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1sE2aFAZDS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1sE2aFAZDS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1W-zcVU1JS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1W-zcVU1JS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91pn9FUZ9NS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91pn9FUZ9NS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91f66jHiIJS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91f66jHiIJS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91rso8MLhNS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91rso8MLhNS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A10DsT3ew3S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A10DsT3ew3S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A18SZEmAPmS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A18SZEmAPmS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91yJtf-8RBS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91yJtf-8RBS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1maQZR5JNS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1maQZR5JNS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91CO316EfOS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91CO316EfOS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1ca1mgsMUS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1ca1mgsMUS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91TDp5Z08AS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91TDp5Z08AS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1-JigxCHVS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1-JigxCHVS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A18GIeJe6RS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A18GIeJe6RS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1372XbmjQS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1372XbmjQS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1X3koQIOoS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1X3koQIOoS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1DKTgVSVaS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1DKTgVSVaS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91+PxmDyrgS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91+PxmDyrgS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91Xs4WPjtTS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91Xs4WPjtTS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1PyMMv4i2S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1PyMMv4i2S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91NMtb9JuES.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91NMtb9JuES.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91ORyUPpoDS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91ORyUPpoDS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91ouZtTxM6S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91ouZtTxM6S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1-92I736ES.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1-92I736ES.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1wwPTTzVGS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1wwPTTzVGS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91id9oI6OXS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91id9oI6OXS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91UN-4ypVfS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91UN-4ypVfS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1AMAIOLUsS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1AMAIOLUsS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1Pd+czuQ5S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1Pd+czuQ5S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91gY8y3phjS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91gY8y3phjS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91Yw7J872gS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91Yw7J872gS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1GJweFGAiS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1GJweFGAiS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1EpEaUAOpS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1EpEaUAOpS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1fa0B8PGqS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1fa0B8PGqS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A12qCU8nimS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A12qCU8nimS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91KN65tdl9S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91KN65tdl9S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/9193ZptS2NS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/9193ZptS2NS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91LVKVKed0S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91LVKVKed0S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1GOx7I3kfS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1GOx7I3kfS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91Z+ZFDkaLS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91Z+ZFDkaLS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91+lbQkcx5S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91+lbQkcx5S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1mkjLY5A7S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1mkjLY5A7S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1b1qjsklzS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1b1qjsklzS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1AVN6EopvS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1AVN6EopvS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/918l-RDCPAS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/918l-RDCPAS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91V2ZOx7L2S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91V2ZOx7L2S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1FYkMYsPAS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1FYkMYsPAS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/910yQoWQpFS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/910yQoWQpFS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1LCBvndW3S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1LCBvndW3S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A135+VkA+9S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A135+VkA+9S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1nYlrP3+zS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1nYlrP3+zS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1ObofRlFtS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1ObofRlFtS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91fxYsir49S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91fxYsir49S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/917v6EQuPJS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/917v6EQuPJS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1uLhwCC4mS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1uLhwCC4mS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A196PE754WS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A196PE754WS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91rduj3SEeS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91rduj3SEeS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91UGeylvSYS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91UGeylvSYS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91gIhZ2S4SS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91gIhZ2S4SS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1+Ea25jPFS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1+Ea25jPFS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1QvutYxzXS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1QvutYxzXS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91wrpZZAuGS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91wrpZZAuGS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1o2X2SZJ8S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1o2X2SZJ8S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1JjifG3FwS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1JjifG3FwS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91Zc93fnXBS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91Zc93fnXBS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1EjJwhDw-S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1EjJwhDw-S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91smb5UEjsS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91smb5UEjsS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91I3ReFlwmS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91I3ReFlwmS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1P+0ZhMAiS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1P+0ZhMAiS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91+uwOT1POS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91+uwOT1POS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/918uApIJYCS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/918uApIJYCS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1XmzqScZLS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1XmzqScZLS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1jBHy9ecoS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1jBHy9ecoS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1kOYTO9sRS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1kOYTO9sRS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1VhNN47hUS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1VhNN47hUS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1-zDL7VfyS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1-zDL7VfyS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A11yVBcrftS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A11yVBcrftS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1cofEJXx3S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1cofEJXx3S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1jQBm9NGkS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1jQBm9NGkS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1C4Gaa9q-S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1C4Gaa9q-S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91WvLcNpdzS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91WvLcNpdzS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1-T14PwQPS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1-T14PwQPS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91itUP78RnS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91itUP78RnS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91P6l1xYVQS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91P6l1xYVQS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91uXUiMTuVS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91uXUiMTuVS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/917zWmTGVMS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/917zWmTGVMS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A10guZxkDfS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A10guZxkDfS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91T6U5fAejS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91T6U5fAejS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91y4PIhedLS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91y4PIhedLS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91wac4EX5NS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91wac4EX5NS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1eiU3QtJZS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1eiU3QtJZS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1VKFP3456S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1VKFP3456S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91JGLZ4VuIS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91JGLZ4VuIS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1YsUDIAq3S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1YsUDIAq3S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A15nWd4JYgS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A15nWd4JYgS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1JAMLw3HHS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1JAMLw3HHS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1jx8Z9eIHS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1jx8Z9eIHS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1N1qLQou6S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1N1qLQou6S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91bTyHxr3KS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91bTyHxr3KS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91wfTWcm+HS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91wfTWcm+HS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91msz0VABdS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91msz0VABdS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91UzJdn3N+S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91UzJdn3N+S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91CHD5t6lkS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91CHD5t6lkS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91S0eS4UYDS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91S0eS4UYDS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91VUAXoMGxS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91VUAXoMGxS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91UveTFmA3S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91UveTFmA3S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1vvFYsp4PS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1vvFYsp4PS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1ZfjsfRsJS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1ZfjsfRsJS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/911EyguDLjS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/911EyguDLjS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A15KmK+PapS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A15KmK+PapS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A13qMfx+VdS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A13qMfx+VdS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91sbGyAh4lS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91sbGyAh4lS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1fhGrcXjjS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1fhGrcXjjS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A15GWy1GbkS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A15GWy1GbkS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1b0a5leqoS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1b0a5leqoS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1bU-WYQgvS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1bU-WYQgvS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91eqrZs3NOS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91eqrZs3NOS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91ZSnUjczES.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91ZSnUjczES.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1zaFTtYy+S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1zaFTtYy+S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1Wy60+1o4S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1Wy60+1o4S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91gJasnQEyS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91gJasnQEyS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1ov09nlukS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1ov09nlukS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1F3EkKe2ES.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1F3EkKe2ES.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91w13yjb8MS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91w13yjb8MS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1fd4ZDyhwS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1fd4ZDyhwS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91GN31Z1rVS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91GN31Z1rVS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1v-wPFDxBS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1v-wPFDxBS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1QjseidMkS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1QjseidMkS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1H-rni1GwS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1H-rni1GwS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1pDSUD-6kS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1pDSUD-6kS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91iEHRn6ZGS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91iEHRn6ZGS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91gayUSzkqS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91gayUSzkqS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91LxNkrQZVS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91LxNkrQZVS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1IWb5AMMlS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1IWb5AMMlS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91JfCp4ysES.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91JfCp4ysES.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91hfgkIXQHS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91hfgkIXQHS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1fjrQMJMAS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1fjrQMJMAS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91SzoPJfbMS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91SzoPJfbMS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1l1po6YF2S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1l1po6YF2S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A12XuDE2T3S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A12XuDE2T3S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91C01Mb7OBS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91C01Mb7OBS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A15Qq5inIHS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A15Qq5inIHS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1y4ALrThUS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1y4ALrThUS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A15HYlQRNUS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A15HYlQRNUS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1hlRP7BkZS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1hlRP7BkZS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1f94LlYyIS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1f94LlYyIS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91FQY9XTyQS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91FQY9XTyQS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91lUoCMPlGS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91lUoCMPlGS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/912Qm4qFZ5S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/912Qm4qFZ5S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91CYKqVIWKS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91CYKqVIWKS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1sJoS5NgBS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1sJoS5NgBS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91elFllk8oS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91elFllk8oS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91USaiAdMdS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91USaiAdMdS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91EWdk0xgDS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91EWdk0xgDS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91yaNbzZb2S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91yaNbzZb2S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1YTUoD6VLS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1YTUoD6VLS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91k62gM3CdS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91k62gM3CdS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91CUFOb58AS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91CUFOb58AS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91Om51OQRgS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91Om51OQRgS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1trMn+DPCS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1trMn+DPCS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91NUBMaZ0MS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91NUBMaZ0MS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91nTMHxyitS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91nTMHxyitS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1wGG6QMSqS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1wGG6QMSqS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91lIYuUETHS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91lIYuUETHS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91FQFmPfsPS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91FQFmPfsPS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/919k+nrbR6S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/919k+nrbR6S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1je3steNHS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1je3steNHS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91zpcutg68S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91zpcutg68S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A19FRhRmb-S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A19FRhRmb-S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1tDo5PqA9S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1tDo5PqA9S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1PirhB4wES.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1PirhB4wES.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91awragicLS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91awragicLS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1reZkUWSVS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1reZkUWSVS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91sHkbnXtmS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91sHkbnXtmS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A16SWkijSrS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A16SWkijSrS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1weUj8AndS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1weUj8AndS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1UjKO6+U6S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1UjKO6+U6S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91+PxYkdSaS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91+PxYkdSaS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91Rff5U3uHS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91Rff5U3uHS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91VBdLPe6sS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91VBdLPe6sS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91A3-6ehAhS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91A3-6ehAhS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91DccWQJovS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91DccWQJovS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91SgMpTCl3S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91SgMpTCl3S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91VyWwPVZBS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91VyWwPVZBS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91-2Jb8DkfS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91-2Jb8DkfS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A16dzLO+diS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A16dzLO+diS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A149qryhUwS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A149qryhUwS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1uwPz7+srS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1uwPz7+srS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A14lkhInQfS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A14lkhInQfS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91risc0HOhS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91risc0HOhS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1bM5kktW7S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1bM5kktW7S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1rxI8K31eS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1rxI8K31eS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1Yh-MNHbrS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1Yh-MNHbrS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91d3Lx1uCYS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91d3Lx1uCYS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1va+qFspPS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1va+qFspPS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/916VcoojH6S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/916VcoojH6S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91uhnh+Z5rS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91uhnh+Z5rS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91kahoXLeSS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91kahoXLeSS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1+lct+7pqS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1+lct+7pqS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91nLbWw4ezS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91nLbWw4ezS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91p9RBHG-qS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91p9RBHG-qS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1l3RNefCZS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1l3RNefCZS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/917sawDuD5S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/917sawDuD5S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91S-OYN7chS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91S-OYN7chS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91PbGctNl8S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91PbGctNl8S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A11EAY9CR5S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A11EAY9CR5S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1TTCvb9eqS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1TTCvb9eqS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91KzTEtLCcS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91KzTEtLCcS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1K2E+QDwJS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1K2E+QDwJS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91bit+2uAGS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91bit+2uAGS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1EGxWmdmOS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1EGxWmdmOS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1GqSV9JCNS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1GqSV9JCNS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1q5q4JH2cS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1q5q4JH2cS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/9167xfvs0RS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/9167xfvs0RS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91FvbEl4WSS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91FvbEl4WSS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A14QYvPah6S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A14QYvPah6S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91zcRJwjygS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91zcRJwjygS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91G0vO9z0KS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91G0vO9z0KS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1JverX4ADS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1JverX4ADS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1-6cHgMKxS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1-6cHgMKxS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1-ZzOdQ9tS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1-ZzOdQ9tS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1MsFmxPg1S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1MsFmxPg1S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91+z7oAY-IS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91+z7oAY-IS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91L8FIoMnTS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91L8FIoMnTS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91d1Gs7pDqS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91d1Gs7pDqS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91O0DKws+gS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91O0DKws+gS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91-wIan2z6S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91-wIan2z6S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1klQ-odb4S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1klQ-odb4S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91jKbe9-y4S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91jKbe9-y4S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91sUrTdJbTS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91sUrTdJbTS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91fbGDJDEZS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91fbGDJDEZS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1UJwaPJfqS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1UJwaPJfqS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91t-lS-8VkS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91t-lS-8VkS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91v9t7spFnS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91v9t7spFnS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1W9PeerqUS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1W9PeerqUS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1WD56t39zS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1WD56t39zS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91UZGkoxFFS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91UZGkoxFFS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1MPiBwZuIS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1MPiBwZuIS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1jFMj0n1JS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1jFMj0n1JS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1TkcPfqMYS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1TkcPfqMYS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1kBIdnD65S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1kBIdnD65S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91He1e1jhwS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91He1e1jhwS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91DU41k+QfS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91DU41k+QfS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1AKpUs29AS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1AKpUs29AS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A14qP36SAnS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A14qP36SAnS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91KyQhcAjmS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91KyQhcAjmS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1qmerAHT-S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1qmerAHT-S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A134R3du4SS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A134R3du4SS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91ugqUYBFYS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91ugqUYBFYS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91jAkcMn9ES.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91jAkcMn9ES.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1Cjr6BQW1S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1Cjr6BQW1S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91GoF2Z9ryS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91GoF2Z9ryS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1u5vhJKxtS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1u5vhJKxtS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1vtrDlFZYS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1vtrDlFZYS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1AjDdqufJS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1AjDdqufJS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1h5pleQRdS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1h5pleQRdS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1INOWKAOfS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1INOWKAOfS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A14gz1dCU2S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A14gz1dCU2S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1CyPGq5HcS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1CyPGq5HcS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91Ghs8ro+NS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91Ghs8ro+NS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1b8hF5TgXS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1b8hF5TgXS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91ZSSH2D-xS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91ZSSH2D-xS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91i7wHVECAS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91i7wHVECAS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1u1X1B3bWS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1u1X1B3bWS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91-9wEBqAlS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91-9wEBqAlS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A14e-5v80zS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A14e-5v80zS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91NlXJ+dBRS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91NlXJ+dBRS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1AhksKfjQS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1AhksKfjQS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/911HPTHcpRS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/911HPTHcpRS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91iSAR-kQlS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91iSAR-kQlS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A15VEzukScS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A15VEzukScS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91fdTDFn-0S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91fdTDFn-0S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/912b+e6TrKS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/912b+e6TrKS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91IYZzsL6oS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91IYZzsL6oS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91sNkqpxajS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91sNkqpxajS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91aHjkHkSQS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91aHjkHkSQS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1IPcs--FPS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1IPcs--FPS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1SitGflSMS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1SitGflSMS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1L6XV+jeQS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1L6XV+jeQS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91vXwMBQScS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91vXwMBQScS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1mKRBbECZS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1mKRBbECZS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1TfaqtPn1S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1TfaqtPn1S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1qbiuHTZCS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1qbiuHTZCS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1IT+pEn0iS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1IT+pEn0iS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1U3C2fmz4S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1U3C2fmz4S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A127e+bWMvS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A127e+bWMvS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91SOigLcQkS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91SOigLcQkS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1cG9GzVTHS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1cG9GzVTHS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1gHv2OcraS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1gHv2OcraS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91IiZsMxf9S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91IiZsMxf9S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A15H3k0MRRS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A15H3k0MRRS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1sqF9lNpqS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1sqF9lNpqS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1AMRLTiJGS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1AMRLTiJGS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1nKGW2--gS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1nKGW2--gS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1hkvS7COFS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1hkvS7COFS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1nbMxob4VS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1nbMxob4VS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91xENK41GyS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91xENK41GyS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A11UTfKe+tS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A11UTfKe+tS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1GHQG8KysS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1GHQG8KysS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91QfJhDwuxS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91QfJhDwuxS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1Oxt4PlX5S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1Oxt4PlX5S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1Ir3wQYrRS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1Ir3wQYrRS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A17zkSVwKES.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A17zkSVwKES.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A14+p6E20BS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A14+p6E20BS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1ZJTtuiBDS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1ZJTtuiBDS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1Y8HsouVnS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1Y8HsouVnS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1gVq1bGsKS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1gVq1bGsKS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91hECpvrRSS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91hECpvrRSS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91tvKOw3HqS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91tvKOw3HqS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/914YKv4LeXS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/914YKv4LeXS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91jvQeBJovS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91jvQeBJovS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91X-fpTnQjS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91X-fpTnQjS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1CGKqiQbKS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1CGKqiQbKS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A15F0+kY8rS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A15F0+kY8rS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91NuxtjJ8sS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91NuxtjJ8sS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/916iz4hbIJS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/916iz4hbIJS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1gXF-c+0dS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1gXF-c+0dS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1phWCkHzQS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1phWCkHzQS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A15Khtac8xS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A15Khtac8xS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91LU1NHG2zS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91LU1NHG2zS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1ioBaIf3+S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1ioBaIf3+S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91tr6rk41qS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91tr6rk41qS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1FN3aNHu4S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1FN3aNHu4S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91Hi+Nn+WQS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91Hi+Nn+WQS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1TmEeuBxfS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1TmEeuBxfS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/9174TjkrG2S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/9174TjkrG2S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91Fl2rS9sAS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91Fl2rS9sAS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1w4zlJFPiS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1w4zlJFPiS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91SkcqZbgHS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91SkcqZbgHS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91Ile3zLhMS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91Ile3zLhMS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91AxNIzSlaS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91AxNIzSlaS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/9194wrYnsuS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/9194wrYnsuS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91lrKy4o2MS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91lrKy4o2MS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1as1eJFMZS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1as1eJFMZS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1rkShWKy-S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1rkShWKy-S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1aUOWf3EES.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1aUOWf3EES.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91GeSv-KwSS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91GeSv-KwSS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91iLyRqupFS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91iLyRqupFS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91U6zCbi81S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91U6zCbi81S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1Bc1P0TdqS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1Bc1P0TdqS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91pO-0Xf8CS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91pO-0Xf8CS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1ERataKU1S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1ERataKU1S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91syhDT3BfS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91syhDT3BfS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1ahIWv8SpS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1ahIWv8SpS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A17Q4CoaY7S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A17Q4CoaY7S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91rCwmuvuIS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91rCwmuvuIS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1p7F2+bYyS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1p7F2+bYyS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91-kqBbzDIS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91-kqBbzDIS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A16G49pfsKS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A16G49pfsKS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91ETNTpkRLS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91ETNTpkRLS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91EPHko9EMS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91EPHko9EMS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A15g0ekJ1US.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A15g0ekJ1US.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1A0BcAeG0S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1A0BcAeG0S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1A1OMtYuiS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1A1OMtYuiS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91-BAOunZBS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91-BAOunZBS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1fta5rGYwS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1fta5rGYwS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91LR1LCcc1S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91LR1LCcc1S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/910rxtT4lNS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/910rxtT4lNS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1p7n9-jHES.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1p7n9-jHES.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1Qf04-ORaS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1Qf04-ORaS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91ierZSo5hS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91ierZSo5hS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91w4r-YTBlS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91w4r-YTBlS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1kmEeviTSS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1kmEeviTSS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1X+6J1KpJS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1X+6J1KpJS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A15HjAPmcrS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A15HjAPmcrS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91yKWACUNcS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91yKWACUNcS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/919quRNFxHS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/919quRNFxHS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91QI9OO73uS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91QI9OO73uS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A15oY022hnS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A15oY022hnS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91tO0imIhfS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91tO0imIhfS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91+fUG+fyBS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91+fUG+fyBS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1PBDuSfdiS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1PBDuSfdiS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1hQq1tJyZS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1hQq1tJyZS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91bMH7SeuoS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91bMH7SeuoS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91PPEg-KXES.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91PPEg-KXES.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91qaGfTESXS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91qaGfTESXS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/911dnmIdIYS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/911dnmIdIYS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1iFJaDDBKS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1iFJaDDBKS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1nolvbbFUS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1nolvbbFUS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A16LhLE1PoS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A16LhLE1PoS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1ZKroqr8eS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1ZKroqr8eS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A11y7ZJTf6S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A11y7ZJTf6S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91+bCFG1jOS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91+bCFG1jOS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91Xg-11OuYS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91Xg-11OuYS.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/A1s0+qM9T1S.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/A1s0+qM9T1S.mp4"
+    },
+    {
+        "video_path": "../../digital_virtual/data/train/91D23ZVV6NS.mp4",
+        "kps_path": "../../digital_virtual/data/train_dwpose_without_face/91D23ZVV6NS.mp4"
+    }
+]

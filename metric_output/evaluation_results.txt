@@ -1,0 +1,111 @@
+评估时间: 2026-07-20 03:50:01
+GT 文件夹: /home/yanghaotian/server_data/yanghaotian/data/ubc_frames/frame300
+生成文件夹: /home/yanghaotian/server_data/yanghaotian/test/MusePose/output/image-20260511/0706-/res
+------------------------------------------------------------
+Image Name                     |     PSNR |     SSIM |    LPIPS
+------------------------------------------------------------
+A1dLq8J8cjS_frame300.png       |  15.7454 |   0.8377 |   0.1510
+A1vouAviXRS_frame300.png       |  13.2145 |   0.8180 |   0.1774
+A1gga724uoS_frame300.png       |  20.0250 |   0.9159 |   0.1536
+915AFYiy5HS_frame300.png       |  12.3912 |   0.8236 |   0.1915
+A1wrrhGRZmS_frame300.png       |  13.3356 |   0.8539 |   0.1601
+A1-Y9IlsIAS_frame300.png       |  18.6300 |   0.8741 |   0.1801
+A1BjxrwYllS_frame300.png       |  15.7054 |   0.8991 |   0.1287
+91yr7XDTg6S_frame300.png       |  14.4699 |   0.8445 |   0.1864
+A1R2IbUSf5S_frame300.png       |  15.2047 |   0.8433 |   0.1380
+91oPpgf2K+S_frame300.png       |  18.8036 |   0.9009 |   0.1294
+A1PldjC8veS_frame300.png       |  23.1477 |   0.9315 |   0.0719
+A129w3AF9lS_frame300.png       |  18.8282 |   0.9089 |   0.1007
+91BjuE6irxS_frame300.png       |  19.1163 |   0.9122 |   0.1040
+91mPG16px8S_frame300.png       |  15.9128 |   0.8287 |   0.1546
+91mDd2Kmd6S_frame300.png       |  17.6414 |   0.8951 |   0.1389
+A1uNC8clQGS_frame300.png       |  15.2723 |   0.8920 |   0.1469
+91-3003CN5S_frame300.png       |  17.1119 |   0.8972 |   0.1604
+A14oLiUg7CS_frame300.png       |  15.4709 |   0.8230 |   0.1429
+A1s7vPmyheS_frame300.png       |  14.4193 |   0.8581 |   0.1444
+A1ZoOtffkDS_frame300.png       |  18.3525 |   0.9029 |   0.1216
+91lel7JgImS_frame300.png       |  18.0024 |   0.8608 |   0.1353
+A1nR9+HvtBS_frame300.png       |  19.7086 |   0.8969 |   0.1080
+A1ubDo0PbQS_frame300.png       |  13.8983 |   0.8784 |   0.1529
+91cqgHAeFJS_frame300.png       |  17.6545 |   0.8447 |   0.1631
+91cC+1+C4SS_frame300.png       |  17.6993 |   0.8467 |   0.1632
+A16PpDz4r2S_frame300.png       |  15.1893 |   0.8907 |   0.1599
+917UaHxvTZS_frame300.png       |  19.3381 |   0.8742 |   0.0986
+91Z2vahVOdS_frame300.png       |  19.9404 |   0.8836 |   0.1022
+A1-cVlkGwjS_frame300.png       |  11.0357 |   0.8023 |   0.2247
+A14LlIk0zZS_frame300.png       |  16.2318 |   0.8256 |   0.1696
+A11wqf-ILMS_frame300.png       |  13.3415 |   0.8243 |   0.1635
+A1VF4yftLZS_frame300.png       |  18.0862 |   0.9105 |   0.1414
+A1YwtL1+BqS_frame300.png       |  13.1484 |   0.8694 |   0.1840
+A1cBV6jd+2S_frame300.png       |  15.2573 |   0.8586 |   0.1666
+91uY9usoa5S_frame300.png       |  17.7010 |   0.8985 |   0.1276
+A1F1j+kNaDS_frame300.png       |  16.2521 |   0.8471 |   0.2094
+91ozYADVwYS_frame300.png       |  11.8336 |   0.8290 |   0.1990
+A1K+AiMS9eS_frame300.png       |  16.7824 |   0.8472 |   0.1260
+91z5omy4l9S_frame300.png       |  17.5596 |   0.8929 |   0.2179
+A1T-Ea-FlQS_frame300.png       |  12.3934 |   0.7980 |   0.2130
+A1o4gxGfr6S_frame300.png       |  15.9871 |   0.8645 |   0.1376
+91M3UFSKn8S_frame300.png       |  14.7682 |   0.8471 |   0.1591
+A15Ei5ve9BS_frame300.png       |  21.8850 |   0.9269 |   0.1076
+A1lbfqR4BBS_frame300.png       |  21.3393 |   0.8851 |   0.0988
+91MTHBRuoeS_frame300.png       |  15.4893 |   0.8278 |   0.1702
+A1xphfMiftS_frame300.png       |  15.5097 |   0.8459 |   0.1379
+91oFLFG8UNS_frame300.png       |  21.4407 |   0.9301 |   0.0739
+91K7loBr8RS_frame300.png       |  23.1922 |   0.9349 |   0.0759
+A17RfvegkdS_frame300.png       |  15.7448 |   0.8441 |   0.1576
+A1Gvc5tOblS_frame300.png       |  17.6139 |   0.8989 |   0.1336
+91RAedLsgMS_frame300.png       |  18.4471 |   0.9088 |   0.1046
+A1mg7pn3zLS_frame300.png       |  11.1896 |   0.8413 |   0.2066
+A1PvgDCryLS_frame300.png       |  17.5224 |   0.9018 |   0.1409
+91EfnBTEE2S_frame300.png       |  16.1636 |   0.8127 |   0.1632
+91ODIc-gMDS_frame300.png       |  18.6802 |   0.8777 |   0.1000
+A1kcvy7vUXS_frame300.png       |  20.0871 |   0.8665 |   0.1483
+A1-Lv00GAzS_frame300.png       |  13.3196 |   0.8130 |   0.2688
+91-NTYmAx2S_frame300.png       |  19.3789 |   0.9116 |   0.1271
+A16GrHceHTS_frame300.png       |  15.8934 |   0.8898 |   0.1338
+A15Tpiz-itS_frame300.png       |  19.1488 |   0.8932 |   0.1273
+A1662PT6CWS_frame300.png       |  16.5709 |   0.8505 |   0.1332
+A1VAMY3TBhS_frame300.png       |  21.3532 |   0.9197 |   0.0910
+A1lLkaME1RS_frame300.png       |  17.4745 |   0.9044 |   0.1568
+A1UhbV6ZA4S_frame300.png       |  22.3243 |   0.9257 |   0.0860
+A15mtgshxeS_frame300.png       |  17.2577 |   0.8440 |   0.1438
+91yqh2WjK1S_frame300.png       |  16.4026 |   0.9010 |   0.1574
+A1XHkvF+vvS_frame300.png       |  17.5605 |   0.8860 |   0.1601
+A1dHQjHDEfS_frame300.png       |  16.2990 |   0.8917 |   0.1507
+91dgMhmymOS_frame300.png       |  17.3246 |   0.8634 |   0.1391
+A1lUNAejWgS_frame300.png       |  26.4786 |   0.9242 |   0.0799
+91JoGG4jzLS_frame300.png       |  23.8213 |   0.9140 |   0.0768
+A1rJWpLlTwS_frame300.png       |  16.4770 |   0.8864 |   0.1292
+91HzMhq7eOS_frame300.png       |  16.4844 |   0.9014 |   0.1293
+919iQ+Yy6qS_frame300.png       |  15.3960 |   0.8133 |   0.2030
+A1Cy4oQcwMS_frame300.png       |  17.8263 |   0.8844 |   0.1302
+A1ZO5aMyXVS_frame300.png       |  13.5415 |   0.8113 |   0.1739
+91yreZAG8CS_frame300.png       |  19.0311 |   0.9159 |   0.0881
+91iZ9x8NI0S_frame300.png       |  18.0900 |   0.9054 |   0.1136
+A1kLuw+NNxS_frame300.png       |  10.9761 |   0.8352 |   0.1971
+A1s1Xh4xEtS_frame300.png       |  17.0727 |   0.8841 |   0.1289
+A1YNmKj0sCS_frame300.png       |  15.1202 |   0.8310 |   0.1929
+A11unT+W2IS_frame300.png       |  14.3450 |   0.8535 |   0.1475
+A1lIw0RlrnS_frame300.png       |  18.3317 |   0.9065 |   0.1176
+A191LVe3AzS_frame300.png       |  16.5630 |   0.8690 |   0.1181
+91IVZ9g5lGS_frame300.png       |  19.4147 |   0.8746 |   0.1755
+A1+O5s8cUuS_frame300.png       |  11.5778 |   0.8524 |   0.1990
+91hNaP-63aS_frame300.png       |  16.5266 |   0.8770 |   0.1941
+91tZgBKfXRS_frame300.png       |  13.4645 |   0.8732 |   0.1950
+91Un56FGzrS_frame300.png       |  12.4347 |   0.8543 |   0.1942
+912mf320DtS_frame300.png       |  14.6260 |   0.8205 |   0.1482
+91xMHzpdyIS_frame300.png       |  19.2742 |   0.9087 |   0.1091
+A1BokHoyj1S_frame300.png       |  13.0541 |   0.8221 |   0.1618
+91bxAN6BjAS_frame300.png       |  18.3351 |   0.8628 |   0.1245
+91ffZ+VFIKS_frame300.png       |  19.7716 |   0.8554 |   0.0950
+A1ETn-UX+MS_frame300.png       |  12.6267 |   0.7947 |   0.2757
+91j9x55ormS_frame300.png       |  19.4034 |   0.9048 |   0.1430
+91svRFuREKS_frame300.png       |  17.2910 |   0.8292 |   0.1086
+A1E5EPKP+GS_frame300.png       |  18.5738 |   0.9108 |   0.1244
+A1Er7goewxS_frame300.png       |  17.5963 |   0.8706 |   0.1752
+------------------------------------------------------------
+最终平均结果 (99 images):
+Average PSNR  : 16.8964
+Average SSIM  : 0.8707
+Average LPIPS : 0.1470
+------------------------------------------------------------

@@ -1,0 +1,8 @@
+[
+    {
+        "video_path": "../../../digital_virtual/data/train/91Z+ZFDkaLS.mp4",
+        "kps_path": "../../../digital_virtual/data/train_dwpose_without_face/91Z+ZFDkaLS.mp4",
+        "idx": 220,
+        "img_path": "./complex_region/out_put/run_20260212_142018/91Z+ZFDkaLS_complex_region_cut.png"
+    }
+]
