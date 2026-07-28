@@ -1,256 +1,156 @@
-# MusePose
+# FocusMotion
 
-MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation. 
+**FocusMotion** — 基于扩散模型的姿态驱动虚拟人视频生成框架，支持训练、推理、姿态对齐、复杂区域识别与多维度评估。
 
-Zhengyan Tong,
-Chao Li,
-Zhaokang Chen,
-Bin Wu<sup>†</sup>,
-Wenjiang Zhou
-(<sup>†</sup>Corresponding Author, benbinwu@tencent.com)
+## 概述
 
-Lyra Lab, Tencent Music Entertainment
+FocusMotion 面向参考图像驱动的虚拟人动作视频生成任务：给定一张参考人物图像与一段目标姿态序列，生成该人物遵循姿态序列运动的视频。项目在原 MusePose 基础上进行了重构与扩展，新增了复杂区域识别、批量推理、多指标评估（FID / FVD / SSIM / PSNR / LPIPS）等模块，并整理了 TikTok、FashionDrive、UBC、FreeMan 等数据集的元信息。
 
+## 核心功能
 
-**[github](https://github.com/TMElyralab/MusePose)**    **[huggingface](https://huggingface.co/TMElyralab/MusePose)**    **space (comming soon)**    **Project (comming soon)**    **Technical report (comming soon)**
+- **两阶段训练**：stage 1 训练 reference_unet + denoising_unet（不含 motion module），stage 2 加入 motion module 联合训练，支持多 GPU（accelerate + deepspeed zero2）。
+- **姿态对齐**：`pose_align.py` 将任意舞蹈视频的 DWPose 对齐到任意参考图像，显著提升推理效果。
+- **复杂区域识别**：`complex_region/` 模块用于识别与提取衣物、复杂区域，辅助精细化生成与评估。
+- **批量推理**：`batch_gen*.py` / `batch_infer2.py` 支持大规模批量生成。
+- **多维评估**：`video_metrics_pyiqa*` / `image_metrics.py` / `video_fvd.py` / `get_fvd.py` 提供帧级与视频级指标计算。
+- **基准测试**：`benchmark/` 提供推理性能 profiling 工具。
 
-[MusePose](https://github.com/TMElyralab/MusePose) is an image-to-video generation framework for virtual human under control signal such as pose. The current released model was an implementation of [AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) by optimizing [Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone).
+## 目录结构
 
-`MusePose` is the last building block of **the Muse opensource serie**. Together with [MuseV](https://github.com/TMElyralab/MuseV) and [MuseTalk](https://github.com/TMElyralab/MuseTalk), we hope the community can join us and march towards the vision where a virtual human can be generated end2end with native ability of full body movement and interaction. Please stay tuned for our next milestone!
+```
+.
+├── benchmark/              # 推理性能 profiling 工具
+├── complex_region/         # 复杂区域识别与衣物提取
+├── configs/                # 训练 / 推理配置 (yaml)
+├── meta*/                  # 数据集元信息 (TikTok / FashionDrive / UBC / FreeMan)
+├── metric_output/          # 评估结果输出
+├── pose/                   # DWPose 配置与脚本
+├── pretrained_weights/     # 预训练权重 (gitignored)
+├── *.py                    # 训练 / 推理 / 评估 / 工具脚本
+└── requirements.txt
+```
 
-We really appreciate [AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) for their academic paper and [Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone) for their code base, which have significantly expedited the development of the AIGC community and [MusePose](https://github.com/TMElyralab/MusePose).
+## 安装
 
-Update:
-1. We release train codes of MusePose now!
+### 1. 构建环境
 
-## Overview
-[MusePose](https://github.com/TMElyralab/MusePose) is a diffusion-based and pose-guided virtual human video generation framework.  
-Our main contributions could be summarized as follows:
-1. The released model can generate dance videos of the human character in a reference image under the given pose sequence. The result quality exceeds almost all current open source models within the same topic.
-2. We release the `pose align` algorithm so that users could align arbitrary dance videos to arbitrary reference images, which **SIGNIFICANTLY** improved inference performance and enhanced model usability.
-3. We have fixed several important bugs and made some improvement based on the code of [Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone).
-
-## Demos
-<table class="center">
-    
-<tr>
-    <td width=50% style="border: none">
-        <video controls autoplay loop src="https://github.com/TMElyralab/MusePose/assets/47803475/bb52ca3e-8a5c-405a-8575-7ab42abca248" muted="false"></video>
-    </td>
-    <td width=50% style="border: none">
-        <video controls autoplay loop src="https://github.com/TMElyralab/MusePose/assets/47803475/6667c9ae-8417-49a1-bbbb-fe1695404c23" muted="false"></video>
-    </td>
-</tr>
-
-<tr>
-    <td width=50% style="border: none">
-        <video controls autoplay loop src="https://github.com/TMElyralab/MusePose/assets/47803475/7f7a3aaf-2720-4b50-8bca-3257acce4733" muted="false"></video>
-    </td>
-    <td width=50% style="border: none">
-        <video controls autoplay loop src="https://github.com/TMElyralab/MusePose/assets/47803475/c56f7e9c-d94d-494e-88e6-62a4a3c1e016" muted="false"></video>
-    </td>
-</tr>
-
-
-<tr>
-    <td width=50% style="border: none">
-        <video controls autoplay loop src="https://github.com/TMElyralab/MusePose/assets/47803475/00a9faec-2453-4834-ad1f-44eb0ec8247d" muted="false"></video>
-    </td>
-    <td width=50% style="border: none">
-        <video controls autoplay loop src="https://github.com/TMElyralab/MusePose/assets/47803475/41ad26b3-d477-4975-bf29-73a3c9ed0380" muted="false"></video>
-    </td>
-</tr>
-
-<tr>
-    <td width=50% style="border: none">
-        <video controls autoplay loop src="https://github.com/TMElyralab/MusePose/assets/47803475/2bbebf98-6805-4f1b-b769-537f69cc0e4b" muted="false"></video>
-    </td>
-    <td width=50% style="border: none">
-        <video controls autoplay loop src="https://github.com/TMElyralab/MusePose/assets/47803475/1b2b97d0-0ae9-49a6-83ba-b3024ae64f08" muted="false"></video>
-    </td>
-</tr>
-
-</table>
-
-
-## News
-- [05/27/2024] Release `MusePose` and pretrained models.
-- [05/31/2024] Support [Comfyui-MusePose](https://github.com/TMElyralab/Comfyui-MusePose)
-- [06/14/2024] Bug Fixed in `inference_v2.yaml`.
-- [03/04/2025] Release train codes.
-
-## Todo:
-- [x] release our trained models and inference codes of MusePose.
-- [x] release pose align algorithm.
-- [x] Comfyui-MusePose
-- [x] training guidelines.
-- [ ] Huggingface Gradio demo.
-- [ ] a improved architecture and model (may take longer).
-
-
-# Getting Started
-We provide a detailed tutorial about the installation and the basic usage of MusePose for new users:
-
-## Installation
-To prepare the Python environment and install additional packages such as opencv, diffusers, mmcv, etc., please follow the steps below:
-
-### Build environment
-
-We recommend a python version >=3.10 and cuda version =11.7. Then build environment as follows:
+推荐 Python >= 3.10，CUDA 11.7。
 
 ```shell
 pip install -r requirements.txt
 ```
 
-### mmlab packages
+### 2. 安装 mmlab 系列
+
 ```bash
-pip install --no-cache-dir -U openmim 
-mim install mmengine 
-mim install "mmcv>=2.0.1" 
-mim install "mmdet>=3.1.0" 
-mim install "mmpose>=1.1.0" 
+pip install --no-cache-dir -U openmim
+mim install mmengine
+mim install "mmcv>=2.0.1"
+mim install "mmdet>=3.1.0"
+mim install "mmpose>=1.1.0"
 ```
 
+### 3. 下载权重
 
-### Download weights
-You can download weights manually as follows:
+所需权重组织在 `pretrained_weights/` 下：
 
-1. Download our trained [weights](https://huggingface.co/TMElyralab/MusePose).
-
-2. Download the weights of other components:
-   - [sd-image-variations-diffusers](https://huggingface.co/lambdalabs/sd-image-variations-diffusers/tree/main/unet)
-   - [sd-vae-ft-mse](https://huggingface.co/stabilityai/sd-vae-ft-mse)
-   - [dwpose](https://huggingface.co/yzd-v/DWPose/tree/main)
-   - [yolox](https://download.openmmlab.com/mmdetection/v2.0/yolox/yolox_l_8x8_300e_coco/yolox_l_8x8_300e_coco_20211126_140236-d3bd2b23.pth) - Make sure to rename to `yolox_l_8x8_300e_coco.pth`
-   - [image_encoder](https://huggingface.co/lambdalabs/sd-image-variations-diffusers/tree/main/image_encoder)
-   - [control_v11p_sd15_openpose](https://huggingface.co/lllyasviel/control_v11p_sd15_openpose/blob/main/diffusion_pytorch_model.bin) (for training only)
-   - [animatediff](https://huggingface.co/guoyww/animatediff/blob/main/mm_sd_v15_v2.ckpt) (for training only)
-
-Finally, these weights should be organized in `pretrained_weights` as follows:
 ```
 ./pretrained_weights/
-|-- MusePose
-|   |-- denoising_unet.pth
-|   |-- motion_module.pth
-|   |-- pose_guider.pth
-|   └── reference_unet.pth
-|-- dwpose
-|   |-- dw-ll_ucoco_384.pth
-|   └── yolox_l_8x8_300e_coco.pth
-|-- sd-image-variations-diffusers
-|   └── unet
-|       |-- config.json
-|       └── diffusion_pytorch_model.bin
-|-- image_encoder
-|   |-- config.json
-|   └── pytorch_model.bin
-|-- sd-vae-ft-mse
-|   |-- config.json
-|   └── diffusion_pytorch_model.bin
-|-- control_v11p_sd15_openpose
-|   └── diffusion_pytorch_model.bin
-└── animatediff
+├── MusePose/
+│   ├── denoising_unet.pth
+│   ├── motion_module.pth
+│   ├── pose_guider.pth
+│   └── reference_unet.pth
+├── dwpose/
+│   ├── dw-ll_ucoco_384.pth
+│   └── yolox_l_8x8_300e_coco.pth
+├── sd-image-variations-diffusers/
+│   └── unet/
+├── image_encoder/
+├── sd-vae-ft-mse/
+└── animatediff/
     └── mm_sd_v15_v2.ckpt
 ```
 
-## Quickstart
-### Inference
-#### Preparation
-Prepare your referemce images and dance videos in the folder ```./assets``` and organnized as the example: 
+## 快速开始
+
+### 推理
+
+1. 准备参考图像与舞蹈视频：
+
 ```
 ./assets/
-|-- images
-|   └── ref.png
-└── videos
+├── images/
+│   └── ref.png
+└── videos/
     └── dance.mp4
 ```
 
-#### Pose Alignment
-Get the aligned dwpose of the reference image:
-```
+2. 姿态对齐：
+
+```shell
 python pose_align.py --imgfn_refer ./assets/images/ref.png --vidfn ./assets/videos/dance.mp4
 ```
-After this, you can see the pose align results in ```./assets/poses```, where ```./assets/poses/align/img_ref_video_dance.mp4``` is the aligned dwpose and the ```./assets/poses/align_demo/img_ref_video_dance.mp4``` is for debug.
 
-#### Inferring MusePose
-Add the path of the reference image and the aligned dwpose to the test config file ```./configs/test_stage_2.yaml``` as the example:
-```
+3. 配置 `./configs/test_stage_2.yaml`：
+
+```yaml
 test_cases:
   "./assets/images/ref.png":
     - "./assets/poses/align/img_ref_video_dance.mp4"
 ```
 
-Then, simply run
-```
+4. 运行推理：
+
+```shell
 python test_stage_2.py --config ./configs/test_stage_2.yaml
 ```
-```./configs/test_stage_2.yaml``` is the path to the inference configuration file.
 
-Finally, you can see the output results in ```./output/```
+结果输出至 `./output/`。可通过 `-W` `-H` 降低分辨率以减少显存占用（如 512x512 约 16GB VRAM）。
 
-##### Reducing VRAM cost
-If you want to reduce the VRAM cost, you could set the width and height for inference. For example,
+### 训练
+
+1. 数据准备：
+
+```shell
+python extract_dwpose_keypoints.py --video_dir ./xxx
+python draw_dwpose.py --video_dir ./xxx
+python extract_meta_info_multiple_dataset.py --video_dirs ./xxx --dataset_name xxx
 ```
-python test_stage_2.py --config ./configs/test_stage_2.yaml -W 512 -H 512
+
+2. 配置 accelerate：
+
+```shell
+pip install accelerate
+accelerate config
 ```
-It will generate the video at 512 x 512 first, and then resize it back to the original size of the pose video.
 
-Currently, it takes 16GB VRAM to run on 512 x 512 x 48 and takes 28GB VRAM to run on 768 x 768 x 48. However, it should be noticed that the inference resolution would affect the final results (especially face region).
+3. 修改 `./configs/train_stage_1.yaml` 与 `./configs/train_stage_2.yaml`。
 
-#### Face Enhancement
+4. 启动训练：
 
-If you want to enhance the face region to have a better consistency of the face, you could use [FaceFusion](https://github.com/facefusion/facefusion). You could use the `face-swap` function to swap the face in the reference image to the generated video.
-
-### Training
-1. Prepare  
-    First, put all your dance videos in a folder such as `./xxx`  
-    Next, `python extract_dwpose_keypoints.py --video_dir ./xxx`. The extracted dwpose_keypoints will be saved in `./xxx_dwpose_keypoints`.  
-    Then, `python draw_dwpose.py --video_dir ./xxx`. The rendered dwpose videos will be saved in `./xxx_dwpose_without_face` if `draw_face=False`. The rendered dwpose videos will be saved in `./xxx_dwpose` if `draw_face=True`.  
-    Finally, `python extract_meta_info_multiple_dataset.py --video_dirs ./xxx --dataset_name xxx`  
-        You will get a json file to record the path of all data. `./meta/xxx.json` 
-
-2. Config your accelerate and deepspeed  
-    `pip install accelerate`  
-    use cmd `accelerate config` to config your deepspeed according to your machine. 
-    We use zero 2 without any offload and our machine has 8x80GB GPU.
-
-3. Config the yaml file for training  
-    stage 1  
-    `./configs/train_stage_1.yaml` 
-    stage 2    
-    `./configs/train_stage_2.yaml`  
-
-4. Launch Training  
-    stage 1    
-        `accelerate launch train_stage_1_multiGPU.py --config configs/train_stage_1.yaml`  
-    stage 2   
-        `accelerate launch train_stage_2_multiGPU.py --config configs/train_stage_2.yaml`
-
-
-
-
-# Acknowledgement
-1. We thank [AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) for their technical report, and have refer much to [Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone) and [diffusers](https://github.com/huggingface/diffusers).
-1. We thank open-source components like [AnimateDiff](https://animatediff.github.io/), [dwpose](https://github.com/IDEA-Research/DWPose), [Stable Diffusion](https://github.com/CompVis/stable-diffusion), etc.. 
-
-Thanks for open-sourcing!
-
-# Limitations
-- Detail consitency: some details of the original character are not well preserved (e.g. face region and complex clothing).
-- Noise and flickering: we observe noise and flicking in complex background. 
-
-# Citation
-```bib
-@article{musepose,
-  title={MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation},
-  author={Tong, Zhengyan and Li, Chao and Chen, Zhaokang and Wu, Bin and Zhou, Wenjiang},
-  journal={arxiv},
-  year={2024}
-}
+```shell
+# stage 1
+accelerate launch train_stage_1_multiGPU.py --config configs/train_stage_1.yaml
+# stage 2
+accelerate launch train_stage_2_multiGPU.py --config configs/train_stage_2.yaml
 ```
-# Disclaimer/License
-1. `code`: The code of MusePose is released under the MIT License. There is no limitation for both academic and commercial usage.
-1. `model`: The trained model are available for non-commercial research purposes only.
-1. `other opensource model`: Other open-source models used must comply with their license, such as `ft-mse-vae`, `dwpose`, etc..
-1. The testdata are collected from internet, which are available for non-commercial research purposes only.
-1. `AIGC`: This project strives to impact the domain of AI-driven video generation positively. Users are granted the freedom to create videos using this tool, but they are expected to comply with local laws and utilize it responsibly. The developers do not assume any responsibility for potential misuse by users.
+
+## 评估
+
+```shell
+# 帧级指标
+python image_metrics.py
+# 视频级指标 (pyiqa)
+python video_metrics_pyiqa.py
+# FVD
+python video_fvd.py
+```
+
+## 致谢
+
+本项目参考了 [AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone)、[Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone)、[diffusers](https://github.com/huggingface/diffusers)、[AnimateDiff](https://animatediff.github.io/)、[DWPose](https://github.com/IDEA-Research/DWPose)、[Stable Diffusion](https://github.com/CompVis/stable-diffusion) 等开源工作。
+
+## License
+
+代码遵循 MIT License；模型权重仅供非商业研究用途。
